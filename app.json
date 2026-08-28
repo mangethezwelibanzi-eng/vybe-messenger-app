@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "VYBE Messenger",
+    "slug": "vybe-messenger-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": { "package": "com.zwelibanzi.vybemessenger" },
+    "ios": { "bundleIdentifier": "com.zwelibanzi.vybemessenger" }
+  }
+}
