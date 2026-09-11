@@ -6,6 +6,11 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "android": { "package": "com.zwelibanzi.vybemessenger" },
-    "ios": { "bundleIdentifier": "com.zwelibanzi.vybemessenger" }
+    "ios": { "bundleIdentifier": "com.zwelibanzi.vybemessenger" },
+    "extra": {
+      "eas": {
+        "projectId": "7720da37-db89-444c-bc3f-15701b991402"
+      }
+    }
   }
 }
