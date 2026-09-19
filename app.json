@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
-    "android": { "package": "com.zwelibanzi.vybemessenger" },
-    "ios": { "bundleIdentifier": "com.zwelibanzi.vybemessenger" },
+    "android": { "package": "com.zwelibanzi.vybemessenger", "versionCode": 1 },
+    "ios": { "bundleIdentifier": "com.zwelibanzi.vybemessenger", "buildNumber": "1", "supportsTablet": false },
     "extra": {
       "eas": {
         "projectId": "7720da37-db89-444c-bc3f-15701b991402"
